@@ -1,4 +1,4 @@
-# Transportatio_logic
+# Transportation_logic
 distance_mi = 10
 is_raining = False
 has_bike = True
