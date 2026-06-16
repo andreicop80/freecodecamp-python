@@ -1,3 +1,13 @@
-# FreeCodeCamp Python Journey
-# FreeCodeCamp Python Journey
-# FreeCodeCamp Python Journey
+# FreeCodeCamp Python Journeyn
+
+This repository tracks my progress through the FreeCodeCamp Python certification course. It contains my practice scripts, lesson notes, and required certification projects.
+
+## 📂 Repository Structure
+
+* `python-basics/` - Core concepts, loops, variables, and regular exercises.
+* `certification-projects/` - Final required assignments built to unlock the certification.
+
+## 🚀 Built With
+* Python 3
+* Git & GitHub via SSH
+
